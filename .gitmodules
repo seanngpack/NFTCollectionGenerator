@@ -1,0 +1,3 @@
+[submodule "extern/generative-art-nft"]
+	path = extern/generative-art-nft
+	url = https://github.com/seanngpack/generative-art-nft

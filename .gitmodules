@@ -1,3 +1,6 @@
 [submodule "extern/generative-art-nft"]
 	path = extern/generative-art-nft
 	url = https://github.com/seanngpack/generative-art-nft
+[submodule "extern/merge-images"]
+	path = extern/merge-images
+	url = https://github.com/seanngpack/merge-images
